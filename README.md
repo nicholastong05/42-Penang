@@ -22,3 +22,4 @@
 | Exam 00    | 50      |
 | Exam 01    | 100     |
 | Exam 02    | 90      |
+| Final Exam | 72      |
